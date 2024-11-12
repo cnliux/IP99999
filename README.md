@@ -1,3 +1,8 @@
+https://raw.incept.pw/cnliux/cnliux.github.io/main/tv.txt
+
+https://ghproxy.net/https://raw.githubusercontent.com/cnliux/cnliux.github.io/main/tv.txt
+
+https://fastly.jsdelivr.net/gh/cnliux/cnliux.github.io@main/tv.txt
 # IPV4/IPV6 TVBOX 电视直播点播源收集
 
 - [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")

@@ -1,0 +1,43 @@
+央视频道,#genre#
+CCTV1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8
+CCTV1,http://116.234.46.145:4022/rtp/239.45.3.145:5140
+CCTV1,http://58.32.33.197:4022/rtp/239.45.3.145:5140
+CCTV1,http://49.77.104.34:8554/rtp/239.49.8.129:6000
+CCTV1,http://49.77.104.34:8554/rtp/239.49.8.19:9614
+CCTV1,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
+CCTV2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8
+CCTV2,http://116.234.46.145:4022/rtp/239.45.3.208:5140
+
+
+卫视频道,#genre#
+浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://58.17.48.228:808/hls/32/index.m3u8
+浙江卫视,http://116.234.46.145:4022/rtp/239.45.3.178:5140
+湖北卫视,http://49.77.104.34:8554/rtp/239.49.8.8:9632
+湖北卫视,http://111.162.207.1:8686/rtp/225.1.1.147:5002
+黑龙江卫视,http://218.92.37.174:9901/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://58.19.43.46:9901/tsfile/live/1008_1.m3u8
+黑龙江卫视,http://218.15.183.23:9901/tsfile/live/23055_1.m3u8
+黑龙江卫视,http://116.234.46.145:4022/rtp/239.45.3.232:5140
+黑龙江卫视,http://58.32.33.197:4022/rtp/239.45.3.232:5140
+黑龙江卫视,http://49.77.104.34:8554/rtp/239.49.8.144:6000
+黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
+安徽卫视,http://116.234.46.145:4022/rtp/239.45.1.120:5140
+
+4K,#genre#
+华数·4K,http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
+华数·4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
+华数·4K,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989=
+华数·4K,http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
+纯享·4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+纯享·4K,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
+纯享·4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
+
+4K频道,#genre#
+4K60PHLG HEVC EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/index.m3u8
+4K60PHLG HEVC EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+4K60PSDR H264 AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
+4K60PSDR H264 AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+咪咕4K 1,http://xiaoya.crccxw.top:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K 2,http://xiaoya.crccxw.top:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
